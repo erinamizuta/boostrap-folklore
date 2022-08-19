@@ -4,3 +4,12 @@
     background-color:rgb(198, 169, 146);
     font-family: 'IM Fell DW Pica', serif;
 }
+
+.width{
+    width: 90%;
+}
+
+.bg-footer{
+    background-color: rgb(198, 169, 146);
+    
+}
